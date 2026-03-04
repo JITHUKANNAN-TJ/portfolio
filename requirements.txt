@@ -1,0 +1,9 @@
+# AI & EEE Core Dependencies
+numpy
+pandas
+scikit-learn
+torch
+transformers
+streamlit
+pyserial
+requests
