@@ -450,7 +450,7 @@ img {
     width: 100%;
     height: auto;
     object-fit: contain;
-    mix-blend-mode: screen; /* Removes black background */
+    mix-blend-mode: normal;
     transition: var(--transition-norm);
 }
 
