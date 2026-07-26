@@ -450,7 +450,7 @@ img {
     width: 100%;
     height: auto;
     object-fit: contain;
-    mix-blend-mode: normal;
+    mix-blend-mode: screen;
     transition: var(--transition-norm);
 }
 
